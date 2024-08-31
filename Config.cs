@@ -80,10 +80,10 @@ namespace WeaponPaints
 		public string DatabaseName { get; set; } = "";
 
 		[JsonPropertyName("CmdRefreshCooldownSeconds")]
-		public int CmdRefreshCooldownSeconds { get; set; } = 60;
+		public int CmdRefreshCooldownSeconds { get; set; } = 1;
 
 		[JsonPropertyName("Prefix")]
-		public string Prefix { get; set; } = "[WeaponPaints]";
+		public string Prefix { get; set; } = "[SKINS]";
 
 		[JsonPropertyName("Website")]
 		public string Website { get; set; } = "example.com/skins";
