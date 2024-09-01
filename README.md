@@ -1,5 +1,7 @@
 # CS2 Weapon Paints
 
+Adjustments made to configuration, only default Timeout to send cmds from 60 seocnds to 1 second, and adjusted some prefixes.
+
 ## Description
 Unfinished, unoptimized and not fully functional ugly demo weapon paints plugin for **[CSSharp](https://docs.cssharp.dev/docs/guides/getting-started.html)**. 
 
